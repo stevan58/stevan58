@@ -9,7 +9,6 @@ This technology is designed to transform plastic waste (PET) into valuable resou
 - **Low-Cost Infrastructure:** Engineered to be affordable and accessible in low-resource settings.
 - **Resilience & Maintenance:** All wear-and-tear components are designed to be locally replaceable via 3D printing (Distributed Manufacturing).
 - ## Video Demonstrations / Demonstrações em Vídeo
-
 <table>
   <tr>
     <td align="center" width="33%">
@@ -22,9 +21,10 @@ This technology is designed to transform plastic waste (PET) into valuable resou
     </td>
     <td align="center" width="33%">
       <p><b>Precision Engineering & Mechanical Parts</b></p>
-      <img src="technical-parts-pet.jpg" width="100%">
+      <img src="technical-parts-pet.jpg" style="width:100%; height:180px; object-fit:cover;">
     </td>
   </tr>
+  
   <tr>
     <td align="center" width="33%">
       <p><b>Plug & Play Direct Printing: Universal PET Upgrade</b></p>
@@ -36,11 +36,10 @@ This technology is designed to transform plastic waste (PET) into valuable resou
     </td>
     <td align="center" width="33%">
       <p><b>From Waste to Everyday Solutions</b></p>
-      <img src="consumer-products-pet.jpg" width="100%">
+      <img src="everyday-solutions-pet.jpg" style="width:100%; height:180px; object-fit:cover;">
     </td>
   </tr>
 </table>
-
 
 *Click on the images to watch the videos on YouTube / Clique nas imagens para assistir aos vídeos no YouTube.*
 
