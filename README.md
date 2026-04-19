@@ -8,7 +8,8 @@ This technology is designed to transform plastic waste (PET) into valuable resou
 - **Direct Plug & Play:** A specialized device that can be mounted directly onto 3D printers for a seamless "waste-to-object" process.
 - **Low-Cost Infrastructure:** Engineered to be affordable and accessible in low-resource settings.
 - **Resilience & Maintenance:** All wear-and-tear components are designed to be locally replaceable via 3D printing (Distributed Manufacturing).
-- ## Video Demonstrations / Demonstrações em Vídeo
+- ## Video Demonstrations / Demonstrações em 
+
 <table>
   <tr>
     <td align="center" width="33%">
@@ -36,7 +37,7 @@ This technology is designed to transform plastic waste (PET) into valuable resou
     </td>
     <td align="center" width="33%">
       <p><b>From Waste to Everyday Solutions</b></p>
-      <img src="everyday-solutions-pet.jpg" style="width:100%; height:180px; object-fit:cover;">
+      <img src="consumer-products-pet.jpg" style="width:100%; height:180px; object-fit:cover;">
     </td>
   </tr>
 </table>
