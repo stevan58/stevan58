@@ -12,26 +12,35 @@ This technology is designed to transform plastic waste (PET) into valuable resou
 
 <table>
   <tr>
-    <td>
-      <p align="center"><b>Pullstruder in Action</b></p>
-      <a href="https://www.youtube.com/watch?v=_4qNnP942UI"><img src="https://img.youtube.com/vi/_4qNnP942UI/0.jpg" width="300"></a>
+    <td align="center" width="33%">
+      <p><b>Automated PET Recycling System</b></p>
+      <a href="https://www.youtube.com/watch?v=_4qNnP942UI"><img src="https://img.youtube.com/vi/_4qNnP942UI/0.jpg" width="100%"></a>
     </td>
-    <td>
-      <p align="center"><b>Technical Demo 1</b></p>
-      <a href="https://www.youtube.com/watch?v=VaEXZWOExfM"><img src="https://img.youtube.com/vi/VaEXZWOExfM/0.jpg" width="300"></a>
+    <td align="center" width="33%">
+      <p><b>Mobile Recycling Unit for Remote Areas</b></p>
+      <a href="https://www.youtube.com/watch?v=VaEXZWOExfM"><img src="https://img.youtube.com/vi/VaEXZWOExfM/0.jpg" width="100%"></a>
+    </td>
+    <td align="center" width="33%">
+      <p><b>Precision Engineering & Mechanical Parts</b></p>
+      <img src="technical-parts-pet.jpg" width="100%">
     </td>
   </tr>
   <tr>
-    <td>
-      <p align="center"><b>Technical Demo 2</b></p>
-      <a href="https://www.youtube.com/watch?v=9aWBaFZRb0E"><img src="https://img.youtube.com/vi/9aWBaFZRb0E/0.jpg" width="300"></a>
+    <td align="center" width="33%">
+      <p><b>Plug & Play Direct Printing: Universal PET Upgrade</b></p>
+      <a href="https://www.youtube.com/watch?v=9aWBaFZRb0E"><img src="https://img.youtube.com/vi/9aWBaFZRb0E/0.jpg" width="100%"></a>
     </td>
-    <td>
-      <p align="center"><b>Process Overview</b></p>
-      <a href="https://www.youtube.com/watch?v=AeuzW2Kxk68"><img src="https://img.youtube.com/vi/AeuzW2Kxk68/0.jpg" width="300"></a>
+    <td align="center" width="33%">
+      <p><b>Sustainable Impact: Transforming Waste into Value</b></p>
+      <a href="https://www.youtube.com/watch?v=AeuzW2Kxk68"><img src="https://img.youtube.com/vi/AeuzW2Kxk68/0.jpg" width="100%"></a>
+    </td>
+    <td align="center" width="33%">
+      <p><b>From Waste to Everyday Solutions</b></p>
+      <img src="consumer-products-pet.jpg" width="100%">
     </td>
   </tr>
 </table>
+
 
 *Click on the images to watch the videos on YouTube / Clique nas imagens para assistir aos vídeos no YouTube.*
 
